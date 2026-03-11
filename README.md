@@ -2,6 +2,8 @@
 
 An AI-powered lab assignment analyzer powered by Google Gemini 2.5 Flash. Upload lab assignment images and automatically extract questions, generate production-grade code solutions, and get expected outputs.
 
+This is the updated version of the CodeSync project with complete automation of all tasks.
+
 ## Features
 
 - 📸 **Image Upload**: Analyze lab assignment images
